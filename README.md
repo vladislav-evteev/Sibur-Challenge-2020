@@ -4,7 +4,7 @@
 
 Команда: IV & Evteev
 
-1 место public/2 место private
+1 место public/2 место private из 200 команд
 
 kaggle notebook: https://www.kaggle.com/batyazhizni/sibur-challenge-iv-evteev-2nd-place-solution
 
